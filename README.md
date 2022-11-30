@@ -1,1 +1,1 @@
-# CODEENATOR
+YouTube Coding Lecture Platform
